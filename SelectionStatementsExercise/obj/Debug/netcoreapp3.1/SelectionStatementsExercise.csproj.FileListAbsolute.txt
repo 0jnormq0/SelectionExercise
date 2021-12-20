@@ -1,0 +1,14 @@
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.exe
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.deps.json
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.runtimeconfig.json
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.runtimeconfig.dev.json
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.dll
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.pdb
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfoInputs.cache
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfo.cs
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.dll
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.pdb
+C:\Users\rnv84379\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.genruntimeconfig.cache
